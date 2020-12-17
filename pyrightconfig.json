@@ -1,0 +1,11 @@
+{
+    "reportUnusedCallResult": true,
+    "reportUnusedImport": true,
+    "venvPath": ".venv",
+    "pythonVersion": "3.9",
+    "executionEnvironments": [
+        {
+            "root": "src"
+        }
+    ]
+}
