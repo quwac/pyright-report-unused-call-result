@@ -1,0 +1,29 @@
+{
+    "version": "1.1.88",
+    "time": "1608257284651",
+    "diagnostics": [
+        {
+            "file": "/Users/quwa/ws/pyright-report-unused-call-result/src/test.py",
+            "severity": "error",
+            "message": "Import \"os\" is not accessed",
+            "range": {
+                "start": {
+                    "line": 0,
+                    "character": 7
+                },
+                "end": {
+                    "line": 0,
+                    "character": 9
+                }
+            },
+            "rule": "reportUnusedImport"
+        }
+    ],
+    "summary": {
+        "filesAnalyzed": 16,
+        "errorCount": 1,
+        "warningCount": 0,
+        "informationCount": 0,
+        "timeInSec": 0.237
+    }
+}

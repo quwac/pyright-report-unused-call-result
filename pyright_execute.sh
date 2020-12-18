@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pyright
+pyright --outputjson >pyright.result.json
